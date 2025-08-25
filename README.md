@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wulstan3
-- 👀 I’m interested in cloud security
-- 🌱 I’m currently learning cloud computing
+- 👋 Hi, I’m chukwuka Ifeagwu 
+- 👀 I’m interested in cloud security|web3 security 
+- 🌱 I’m currently learning cloud computing|solidity 
 - 💞️ I’m looking to collaborate on cloud security
-- 📫 How to reach me at twitter; wulstan_3
+- 📫 How to reach me at twitter; @engrdraco 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love the cloud
 
