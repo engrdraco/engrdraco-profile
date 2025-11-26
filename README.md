@@ -2,7 +2,8 @@
 - 👀 I’m interested in cloud security|web3 security 
 - 🌱 I’m currently learning cloud computing|solidity 
 - 💞️ I’m looking to collaborate on cloud security|web3 security
-  
+- I am currently gaining experience on GCP 
+
 
 <!---
 wulstan3/wulstan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
