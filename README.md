@@ -1,8 +1,6 @@
 - 👋 Hi, I’m chukwuka Ifeagwu 
-- 👀 I’m interested in cloud security|web3 security 
-- 🌱 I’m currently learning cloud computing|solidity 
-- 💞️ I’m looking to collaborate on cloud security|web3 security
-- leave a star on my projects
+- 👀 I’m interested in cloud security|web3 security|application security
+
 
 
 
